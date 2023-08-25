@@ -1,2 +1,2 @@
 # my-java-phonebook
-Phonebook app to practice fundamental java programming and syntax. This is my first serious project in java back so the code is not the best to look at. But I still uploaded this if ever I wanted to see how I improved. I will not commit changes anymore to this unless this somewhat became broken. 
+Phonebook app to practice fundamental java programming and syntax. This is my first serious project in java so the code is not the best to look at. But I still uploaded this if ever I wanted to see how I improved. I will not commit changes anymore to this unless this somewhat became broken. 
